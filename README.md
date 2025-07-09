@@ -1,6 +1,8 @@
 # 📈 CodeAlpha_UnemploymentAnalysis
 
 A complete data analysis project to explore unemployment patterns in India from **2018 to 2023**, with a focus on understanding the impact of COVID-19 and providing insights to support social and economic policy decisions.
+![image](https://github.com/user-attachments/assets/ff0023b8-f580-4f44-94d2-4e788f06c850)
+
 
 This project was completed as part of the **CodeAlpha Data Science Internship** – Task 2.
 
